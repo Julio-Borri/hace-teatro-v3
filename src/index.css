@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Metropolis-Regular';
+  src: local('Metropolis-Regular'),
+    url('./assets/fonts/Metropolis-Regular.otf') format('otf');
+}
+
+@font-face {
+  font-family: 'Metropolis-ExtraBold';
+  src: local('Metropolis-ExtraBold'),
+    url('./assets/fonts/Metropolis-ExtraBold.otf') format('otf');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: unset;
+}
